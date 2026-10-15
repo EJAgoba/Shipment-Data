@@ -1,0 +1,38 @@
+/A3 Shipment Data
+/august_duplicate_invoice_analysis.csv
+/august_invoice_freight_breakdown.csv
+/august_top100_invoice_samples.csv
+/august_top_duplicate_invoices.csv
+/checker.py
+/cleaner.py
+/cleaner2.py
+/combiner.py
+/concatenater.py
+/delete_data.py
+/duplicate_counter.py
+/duplicate_month_summary.csv
+/FA_Carrier_Summary.csv
+/FCL Rate Sheet
+/file_reader.py
+/International_Carrier_Summary_By_Mode.csv
+/invoice_911529063_details.csv
+/invoice_occurrence_counts.csv
+/July_2026_G58_Shipped_Date.xlsx
+/June_July_2026_G58_Receive_Date.xlsx
+/June_July_2026_G58_Shipped_Date.xlsx
+/lane_puller.py
+/LT_Carrier_Summary.csv
+/miles.py
+/Miscellaneous Data
+/monthly_invoice_freight_analysis.csv
+/M_Carrier_Summary.csv
+/O_Carrier_Summary.csv
+/PD_Carrier_Summary.csv
+/Python-Processed Shipment Data
+/random_stuff.py
+/random_things.py
+/RFP FOR FEDEX & UPS
+/sai_request.py
+/Shipment Dashboard.pbix
+/Top UPS Locations
+/ups_proposal.pbix
